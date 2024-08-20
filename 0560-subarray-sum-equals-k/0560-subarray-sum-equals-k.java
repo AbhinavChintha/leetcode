@@ -9,8 +9,6 @@ class Solution {
             if(h.containsKey(rem)){
                 cnt+=h.get(rem);
             }
-        
-       
             h.put(sum,h.getOrDefault(sum,0)+1);
         }
         return cnt;
