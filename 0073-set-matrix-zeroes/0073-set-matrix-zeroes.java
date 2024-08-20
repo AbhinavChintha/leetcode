@@ -1,32 +1,22 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[i].length;j++){
-               if(matrix[i][j]==0){
-                markrow(i,matrix);
-                markcol(j,matrix);
-               }
-            }
-        }
-        for(int i=0;i<matrix.length;i++){
-            for(int j=0;j<matrix[i].length;j++){
-                if(matrix[i][j]=='A'){
-                    matrix[i][j]=0;
+        int n=matrix.length;
+        int m=matrix[0].length;
+        int[] row=new int[n];
+        int[] col=new int[m];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(matrix[i][j]==0){
+                    row[i]=1;
+                    col[j]=1;
                 }
             }
         }
-    }
-    static void markrow(int i,int[][] matrix){
-        for(int j=0;j<matrix[i].length;j++){
-            if(matrix[i][j]!=0){
-                matrix[i][j]='A';
-            }
-        }
-    }
-    static void markcol(int j,int[][] matrix){
-        for(int i=0;i<matrix.length;i++){
-            if(matrix[i][j]!=0){
-                matrix[i][j]='A';
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(row[i]==1 || col[j]==1){
+                    matrix[i][j]=0;
+                }
             }
         }
     }
