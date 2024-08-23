@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AbhinavChintha/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AbhinavChintha/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AbhinavChintha/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AbhinavChintha/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AbhinavChintha/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AbhinavChintha/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AbhinavChintha/leetcode/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AbhinavChintha/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AbhinavChintha/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AbhinavChintha/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -63,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AbhinavChintha/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AbhinavChintha/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
