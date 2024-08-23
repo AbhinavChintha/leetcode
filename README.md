@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbhinavChintha/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AbhinavChintha/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavChintha/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhinavChintha/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
