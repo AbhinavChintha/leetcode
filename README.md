@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhinavChintha/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/AbhinavChintha/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AbhinavChintha/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/AbhinavChintha/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AbhinavChintha/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AbhinavChintha/leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/AbhinavChintha/leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AbhinavChintha/leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AbhinavChintha/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
