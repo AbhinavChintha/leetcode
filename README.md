@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AbhinavChintha/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AbhinavChintha/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AbhinavChintha/leetcode/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/AbhinavChintha/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/AbhinavChintha/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/AbhinavChintha/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/AbhinavChintha/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AbhinavChintha/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/AbhinavChintha/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
