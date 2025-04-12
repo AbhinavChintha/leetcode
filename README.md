@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AbhinavChintha/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhinavChintha/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AbhinavChintha/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AbhinavChintha/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AbhinavChintha/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AbhinavChintha/leetcode/tree/master/0268-missing-number) |
 | [2032-largest-odd-number-in-string](https://github.com/AbhinavChintha/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AbhinavChintha/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AbhinavChintha/leetcode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/AbhinavChintha/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
