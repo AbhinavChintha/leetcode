@@ -3,7 +3,7 @@ class Solution:
         cnt=0
         maxi=0
         for i in nums:
-            if(i==1):
+            if i==1:
                 cnt+=1
                 maxi=max(cnt,maxi)
             else:
