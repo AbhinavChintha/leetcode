@@ -1,7 +1,13 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        xor=0
+        hash={}
+        key1=-1
         for i in nums:
-            xor=xor^i
-            
-        return xor
+            if i in hash:
+                hash[i]+=1
+            else:
+                hash[i]=1
+        for key,value in hash.items():
+            if value==1:
+                key1=key
+        return key1
